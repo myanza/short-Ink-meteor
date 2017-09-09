@@ -1,7 +1,7 @@
-##Short Link
+# Short Link
 
 This is the short ink project.
 
-##Autors
+## Autors
 
 Andrew Mead
